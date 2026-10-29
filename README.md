@@ -4,7 +4,7 @@ Aplicação desenvolvida em **Python** com **[Flet](https://flet.dev)**.
 
 ## 📖 Sobre o projeto
 
-Criação de uma tela previamente criada no figma, agora usando a biblioteca flet do python.
+`<Criação de uma tela previamente criada no figma, agora usando a biblioteca flet do python.>`
 
 ## 🧰 Tecnologias
 
@@ -49,11 +49,6 @@ flet run --web main.py
 ## 🖼️ Capturas de tela
 
 `<adicionar prints em docs/ e referenciar aqui>`
-
-## 🛣️ Próximos passos
-
-- [ ] `<melhoria 1>`
-- [ ] `<melhoria 2>`
 
 ## 👤 Autor
 
