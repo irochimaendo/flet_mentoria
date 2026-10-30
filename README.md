@@ -46,10 +46,6 @@ flet run main.py
 flet run --web main.py
 ```
 
-## 🖼️ Capturas de tela
-
-`<adicionar prints em docs/ e referenciar aqui>`
-
 ## 👤 Autor
 
 - `<seu nome>` — [@irochimaendo](https://github.com/irochimaendo)
